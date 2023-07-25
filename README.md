@@ -1,5 +1,9 @@
 # PythonEmailDelivery
 This project automatically sends email via a python script to users from a Database.
+Author: Akomolafe Victor Oluwatobi
+Email: hello@tobiakomolafe.com
+Website: https://tobiakomolafe.com
+Company: Roie Technologies
 
 The App works this way
 1. It connects to an external SQL database and extract users email that are expiring at a certain time. This is called the target email
